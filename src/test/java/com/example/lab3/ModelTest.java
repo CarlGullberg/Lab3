@@ -10,6 +10,7 @@ class ModelTest {
     void setUp() {
         model = new Model();
         model.resetBoard();
+
     }
 
 
